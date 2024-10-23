@@ -2,9 +2,9 @@
 <h1>Hi ✌, I'm Yuri kauan</h1>
 <h3>Software Developer</h3>
 
-- 🌱 I’m currently learning *architecture in AWS and how to build scalable applications, and web development*
-- ☁ I've keen interest in cloud computing. *So,I'm learning AWS*
-- 📫 How to reach me *vitorgabriel181004@gmail.com*
+- 🌱 I’m currently learning javascript anda typescript for web development*
+- ☁ I've keen interest in programming full stack. *So,I'm learning back-end and front-end*
+- 📫 How to reach me *yurrikauan@gmail.com*
 <br>
 <table align="center">
 <tr border="none">
