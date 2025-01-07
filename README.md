@@ -42,10 +42,10 @@
 ###
 
 <div align="left">
-   <a href="https://www.instagram.com/yuri0ff/" target="_blank">
+   <a href="https://www.linkedin.com/in/yuri-kauan-4674722bb/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
    </a>
-   <a href="https://www.linkedin.com/in/yuri-kauan-4674722bb/" target="_blank">
+   <a href="https://www.instagram.com/yuri0ff/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  />
    </a>
 </div>
