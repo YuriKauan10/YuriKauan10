@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 💻 I'm currently working in IT Support<br>- 📖 I am currently studying and improving my front end skills.<br>- 🔍 Fun fact: I am a philosophy and humor enthusiast<br><br>- 📫 How to reach me yurrikauan@gmail.com</p>
+<p align="left">- 💻 I'm currently working in IT Support<br>- 📖 I am currently studying and improving my front end skills.<br>- <br><br>- 📫 How to reach me yurrikauan@gmail.com</p>
 
 ###
 
